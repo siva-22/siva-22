@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm SIVAGAMI.S</h1>
-<h3 align="center">A passionate designer development</h3>
+<h3 align="center">A passionate designing development</h3>
 
 - 🌱 I’m currently learning **hmtl, css, js ect...**
 
