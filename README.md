@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **hmtl, css, js ect...**
 
-- 👨‍💻 All of my projects are available at [@siva-22](@siva-22)
+- 👨‍💻 All of my projects are available at [siva-22](siva-22)
 
 <p align="left">
 </p>
