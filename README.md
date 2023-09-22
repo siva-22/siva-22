@@ -5,7 +5,6 @@
 
 - 👨‍💻 All of my projects are available at [@siva-22](@siva-22)
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
